@@ -6,7 +6,7 @@
 <p align="center">
 Project Name : GO-TRAVEL - AI-Powered Travel Booking Platform<br/>
 Guided By : Prof. [Guide Name]<br/>
-Learner Name : Ankit Aryan (Ani)<br/>
+Learner Name : Ankit Aryan <br/>
 College : 711- CIMAGE Center of Digital Technology and Entrepreneurship, Patna<br/>
 Course : Master of Computer Applications<br/>
 University : ARYABHATTA KNOWLEDGE UNIVERSITY, PATNA<br/>
@@ -494,7 +494,7 @@ This project is for educational purposes as part of MCA Final Year Project requi
 | **Project Name** | GO-TRAVEL |
 | **Type** | Full-Stack Web Application |
 | **Duration** | 6 Months (Jan 2025 - July 2026) |
-| **Student** | Ankit Aryan (Ani) |
+| **Student** | Ankit Aryan  |
 | **Enrollment** | 24326711015 |
 | **Session** | 2024-2026 |
 | **College** | CIMAGE, Patna |
