@@ -5,7 +5,7 @@
 </p>
 <p align="center">
 Project Name : GO-TRAVEL - AI-Powered Travel Booking Platform<br/>
-Guided By : Prof. [Guide Name]<br/>
+Guided By : Prof. Dr. Amit Kumar Shukla Sir<br/>
 Learner Name : Ankit Aryan <br/>
 College : 711- CIMAGE Center of Digital Technology and Entrepreneurship, Patna<br/>
 Course : Master of Computer Applications<br/>
